@@ -1,0 +1,16 @@
+# Swift build products
+.build/
+.swiftpm/
+DerivedData/
+
+# Xcode / IDE cruft
+*.xcuserstate
+xcuserdata/
+.idea/
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Package manager artifacts
+Packages/
